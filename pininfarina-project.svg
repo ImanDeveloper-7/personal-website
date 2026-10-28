@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="580" viewBox="0 0 740 580" fill="none">
+  <defs>
+    <linearGradient id="band" x1="245" y1="8" x2="270" y2="565" gradientUnits="userSpaceOnUse"><stop stop-color="#789087"/><stop offset=".5" stop-color="#1B302C"/><stop offset="1" stop-color="#7C9187"/></linearGradient>
+    <linearGradient id="steel" x1="140" y1="200" x2="358" y2="410" gradientUnits="userSpaceOnUse"><stop stop-color="#B3C2BC"/><stop offset=".5" stop-color="#6D8B7D"/><stop offset="1" stop-color="#A9B9B0"/></linearGradient>
+  </defs>
+  <circle cx="343" cy="278" r="246" stroke="#A7C6B8" stroke-opacity=".23"/><circle cx="343" cy="278" r="197" stroke="#A7C6B8" stroke-opacity=".22"/>
+  <!-- Smartphone app -->
+  <g transform="rotate(9 520 295)">
+    <rect x="422" y="75" width="211" height="432" rx="35" fill="#0E201E"/>
+    <rect x="430" y="83" width="195" height="416" rx="29" fill="#EDF4ED"/>
+    <rect x="481" y="91" width="91" height="18" rx="9" fill="#0E201E"/>
+    <text x="451" y="155" fill="#2E5A45" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">MY WATCH</text>
+    <text x="451" y="179" fill="#15392D" font-family="Arial,sans-serif" font-size="20" font-weight="700">Connected</text>
+    <circle cx="528" cy="276" r="70" fill="#DDECE0"/>
+    <circle cx="528" cy="276" r="57" fill="#22463A" stroke="#A6C5B0" stroke-width="6"/>
+    <circle cx="528" cy="276" r="42" stroke="#9AC2A3" stroke-width="1.5"/>
+    <path d="M528 244V276L550 288" stroke="#E3F5DF" stroke-width="3" stroke-linecap="round"/>
+    <text x="528" y="306" text-anchor="middle" fill="#CBE1D1" font-family="Arial,sans-serif" font-size="8">PININFARINA</text>
+    <rect x="452" y="374" width="153" height="54" rx="12" fill="#DCEBDF"/>
+    <circle cx="472" cy="401" r="11" fill="#94C793"/>
+    <path d="M468 401L471 404L477 397" stroke="#264C39" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="492" y="397" fill="#2A5541" font-family="Arial,sans-serif" font-size="10" font-weight="700">All synced up</text>
+    <text x="492" y="412" fill="#76927F" font-family="Arial,sans-serif" font-size="9">Just now</text>
+    <rect x="493" y="469" width="70" height="4" rx="2" fill="#B7CABA"/>
+  </g>
+  <!-- Hybrid watch -->
+  <g transform="rotate(-12 245 291)">
+    <path d="M216 15C216 -7 233 -23 253 -23C272 -23 289 -7 289 15L304 199H202L216 15Z" fill="url(#band)"/>
+    <path d="M202 397H303L289 561C287 581 273 598 253 598C235 598 219 581 216 561L202 397Z" fill="url(#band)"/>
+    <g fill="#B9D0C4" opacity=".27"><rect x="245" y="36" width="17" height="5" rx="2.5"/><rect x="245" y="65" width="17" height="5" rx="2.5"/><rect x="245" y="95" width="17" height="5" rx="2.5"/><rect x="245" y="510" width="17" height="5" rx="2.5"/></g>
+    <rect x="146" y="179" width="210" height="242" rx="70" fill="url(#steel)"/>
+    <rect x="157" y="190" width="188" height="220" rx="62" fill="#0E2420" stroke="#C2CEC3" stroke-width="2"/>
+    <circle cx="251" cy="299" r="85" fill="#173F33" stroke="#A2B7A9" stroke-width="4"/>
+    <circle cx="251" cy="299" r="68" stroke="#A6C8AA" stroke-width="1"/>
+    <circle cx="251" cy="299" r="52" stroke="#628B70" stroke-width="1"/>
+    <g stroke="#B5CFB7" stroke-width="2"><path d="M251 222V232M251 366V376M174 299H184M318 299H328"/></g>
+    <path d="M251 245V299L290 315" stroke="#ECF5E2" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="251" cy="299" r="7" fill="#DDF2D0"/>
+    <text x="251" y="266" text-anchor="middle" fill="#E2F2D8" font-size="10" font-family="Arial,sans-serif" letter-spacing="1.3">PININFARINA</text>
+    <text x="251" y="348" text-anchor="middle" fill="#98C5A3" font-size="10" font-family="Arial,sans-serif">HYBRID</text>
+    <rect x="354" y="276" width="14" height="51" rx="7" fill="#98AA9F"/>
+  </g>
+  <g><rect x="83" y="431" width="178" height="53" rx="12" fill="#E7F2E5"/><circle cx="111" cy="458" r="13" fill="#9FCC91"/><path d="M106 458L109 462L116 453" stroke="#2D6645" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><text x="133" y="453" fill="#2A553E" font-size="11" font-weight="700" font-family="Arial,sans-serif">Bluetooth connected</text><text x="133" y="468" fill="#75947D" font-size="9" font-family="Arial,sans-serif">Ready to sync</text></g>
+  <circle cx="100" cy="109" r="7" fill="#9FD69E"/><path d="M612 57H634M623 46V68" stroke="#B4E0AF" stroke-width="2"/>
+</svg>
